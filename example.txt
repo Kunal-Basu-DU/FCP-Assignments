@@ -1,0 +1,2 @@
+Hello I am Kunal
+I am in FOTcd "/Users/kunalbasu/FCP Lab/" && gcc 17-c.c -o 17-c && "/Users/kunalbasu/FCP Lab/"17-c
